@@ -12,5 +12,5 @@ fun main(){
     println(n)
 
     val numbers2 = Array(3,{5})
-    
+
 }
